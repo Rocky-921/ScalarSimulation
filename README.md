@@ -9,7 +9,7 @@ commands to execute in terminal:-
 * Output.txt, DCache.txt will be generated in output folder as specified in pdf
 
 Instruction Set:-
-
+<pre>
 ADD    :	0<br/>
 SUB    :	1<br/>
 MUL    :	2<br/>
@@ -26,3 +26,4 @@ ST     :	c<br/>
 JMP    :	d<br/>
 BEQZ   :	e<br/>
 HLT    :	f
+</pre>
