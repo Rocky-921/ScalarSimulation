@@ -11,18 +11,18 @@ commands to execute in terminal:-
 Instruction Set:-
 
 ADD    :	0<br/>
-SUB    :	1
-MUL    :	2
-INC    :	3
-AND    :	4
-OR     :	5
-XOR    :	6
-NOT    :	7
-SLLI   :	8
-SRLI   :	9
-LI     :	a
-LD     :	b
-ST     :	c
-JMP    :	d
-BEQZ   :	e
+SUB    :	1<br/>
+MUL    :	2<br/>
+INC    :	3<br/>
+AND    :	4<br/>
+OR     :	5<br/>
+XOR    :	6<br/>
+NOT    :	7<br/>
+SLLI   :	8<br/>
+SRLI   :	9<br/>
+LI     :	a<br/>
+LD     :	b<br/>
+ST     :	c<br/>
+JMP    :	d<br/>
+BEQZ   :	e<br/>
 HLT    :	f
