@@ -10,7 +10,7 @@ commands to execute in terminal:-
 
 Instruction Set:-
 
-ADD    :	0
+ADD    :	0<br/>
 SUB    :	1
 MUL    :	2
 INC    :	3
